@@ -1,5 +1,5 @@
 backpack = ["matches", "flashlight", "energy bar"]
-bckpck_max = 5
+bckpck_max = 10
 
 def help():             #prints available actions
         print("""\nAvailable Actions:
